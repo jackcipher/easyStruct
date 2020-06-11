@@ -13,8 +13,8 @@ function initAnalytics()
 
 $(function()
 {
-	const emptyInputMsg = "Paste JSON here";
-	const emptyOutputMsg = "Go will appear here";
+	const emptyInputMsg = "此处粘贴Json数据";
+	const emptyOutputMsg = "此处展示Golang结构体";
 	const formattedEmptyInputMsg = '<span style="color: #777;">'+emptyInputMsg+'</span>';
 	const formattedEmptyOutputMsg = '<span style="color: #777;">'+emptyOutputMsg+'</span>';
 
